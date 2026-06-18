@@ -2,15 +2,11 @@
 Hi there, I am a Computer Engineering student who specializes in breaking computers and writing garbage-like and questionable code. Below you will find entirely useless stuff about me. Have fun reading, yay.
 ## Programming Languages I kind of know
 ### Intermediate
-- C
-- C++
-- Python
+- C, C++, Python
 ### Beginner
-- JavaScript
-- Bash
+- JavaScript, Bash
 ### Learning
-- C#
-- Java
+- C#, Java
 ## Projects
 - [fconvert](https://github.com/Eraldo-Bako/fconvert) - is a file converter written in C++. It can be used to convert images, video, audio, and documents/ebooks to different desired formats.
 - [dconvert](https://github.com/Eraldo-Bako/dconvert) - converts everything into a document(under development).
