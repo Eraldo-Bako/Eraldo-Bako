@@ -1,4 +1,4 @@
-# Eraldo Bako
+# Eraldo Bako <a href="https://hosted.weblate.org/engage/blackbox/"><img src="https://hosted.weblate.org/widget/blackbox/-/sq/svg-badge.svg" alt="Translation status"></a>
 Hi there, I am a Computer Engineering student who specializes in breaking computers and writing garbage-like and questionable code. Below you will find entirely useless stuff about me. Have fun reading, yay.
 ## Programming Languages I kind of know
 ### Intermediate
@@ -15,4 +15,3 @@ Hi there, I am a Computer Engineering student who specializes in breaking comput
 - other useless repos [here](https://github.com/Eraldo-Bako?tab=repositories)
 ## My Terrible Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eraldo-Bako&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[Translations](<a href="https://hosted.weblate.org/engage/blackbox/"><img src="https://hosted.weblate.org/widget/blackbox/-/sq/svg-badge.svg" alt="Translation status"></a>)
