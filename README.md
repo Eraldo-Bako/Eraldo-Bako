@@ -14,4 +14,4 @@ Hi there, I am a Computer Engineering student who specializes in breaking comput
 - [axolotl](https://github.com/Eraldo-Bako/axolotl) - a faster, more customizable version of Nautilus file manager
 - other useless repos [here](https://github.com/Eraldo-Bako?tab=repositories)
 ## My Terrible Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eraldo-Bako&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Eraldo-Bako&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
